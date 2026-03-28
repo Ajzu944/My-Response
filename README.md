@@ -37,7 +37,7 @@ Tech Stack
 Installation
 --------------
 ```bash
-git clone https://github.com/your-username/employee-management-system.git
+git clone https://github.com/ajzu944/employee-management-system.git
 cd employee-management-system
 pip install -r requirements.txt
 ```
