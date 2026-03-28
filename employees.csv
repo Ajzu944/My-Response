@@ -1,0 +1,31 @@
+EmployeeID,FirstName,LastName,Department,DOB,Email,Phone,Salary,City
+1001,john,doe,IT,1990-10-05,john.doe@gmail.com,981-234-5671,50000,New York
+1002,sara,lee,HR,1988-07-12,sara.lee@gmail.com,(981)2345672,55000,Los Angeles
+1003,mike,smith,Finance,1992-03-15,mike.smith@gmail.com,981234-5673,60000,Chicago
+1004,lisa,johnson,IT,1991-11-20,lisa.johnson@gmail.com,+91-9812345674,52000,Houston
+1005,david,brown,Marketing,1993-09-08,david.brown@gmail.com,981 234 5675,58000,Phoenix
+1006,emma,davis,Finance,1989-12-25,emma.davis@gmail.com,9812345676,62000,Philadelphia
+1007,james,miller,IT,1994-04-17,james.miller@gmail.com,981.234.5677,51000,San Antonio
+1008,olivia,garcia,HR,1990-09-30,olivia.garcia@gmail.com,9812345678,54000,San Diego
+1009,william,rodriguez,Marketing,1987-06-11,william.rodriguez@gmail.com,981-2345679,57000,Dallas
+1010,ava,hernandez,Finance,1992-01-21,ava.hernandez@gmail.com,+91 9812345680,60000,San Jose
+1011,liam,lopez,IT,1993-02-28,liam.lopez@gmail.com,981 234-5681,50500,Austin
+1012,sophia,gonzalez,HR,1988-10-05,sophia.gonzalez@gmail.com,(981)2345682,54500,Jacksonville
+1013,noah,wilson,Marketing,1991-03-12,noah.wilson@gmail.com,981.234.5683,57500,Fort Worth
+1014,emma,moore,Finance,1990-07-23,emma.moore@gmail.com,+91-9812345684,61000,Columbus
+1015,jacob,taylor,IT,1992-09-14,jacob.taylor@gmail.com,981234-5685,51500,Charlotte
+1016,isabella,anderson,HR,1989-12-01,isabella.anderson@gmail.com,981 234 5686,55000,San Francisco
+1017,ethan,thomas,Marketing,1991-05-18,ethan.thomas@gmail.com,981.234.5687,58000,Indianapolis
+1018,mia,jackson,Finance,1993-08-30,mia.jackson@gmail.com,+91 9812345688,62000,Seattle
+1019,alexander,white,IT,1990-02-11,alexander.white@gmail.com,981-234-5689,52500,Denver
+1020,amelia,harris,HR,1992-06-20,amelia.harris@gmail.com,(981)2345690,54500,Washington
+1021,daniel,martin,Marketing,1988-11-15,daniel.martin@gmail.com,981 234-5691,57000,Boston
+1022,harper,thompson,Finance,1991-01-07,harper.thompson@gmail.com,981.234.5692,60500,El Paso
+1023,matthew,garcia,IT,1993-04-26,matthew.garcia@gmail.com,+91-9812345693,51500,Nashville
+1024,abigail,robinson,HR,1990-09-19,abigail.robinson@gmail.com,981234 5694,55000,Detroit
+1025,benjamin,clark,Marketing,1989-05-05,benjamin.clark@gmail.com,981.234.5695,57500,Memphis
+1026,ella,rodriguez,Finance,1992-12-22,ella.rodriguez@gmail.com,+91 9812345696,61000,Portland
+1027,logan,lewis,IT,1991-08-16,logan.lewis@gmail.com,981-234-5697,52000,Oklahoma City
+1028,chloe,lee,HR,1993-03-30,chloe.lee@gmail.com,(981)2345698,54500,Las Vegas
+1029,oliver,walker,Marketing,1988-10-10,oliver.walker@gmail.com,981 234.5699,58000,Louisville
+1030,avery,hall,Finance,1990-06-25,avery.hall@gmail.com,981.234.5700,61500,Baltimore
